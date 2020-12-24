@@ -1,2 +1,2 @@
-# get-started-with-rust
-新 rustacean 入门 rust 的资料
+# 初识
+[Introduction · RustPrimer](https://rustcc.gitbooks.io/rustprimer/content/)
